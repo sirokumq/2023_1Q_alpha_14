@@ -15,9 +15,8 @@
     margin: 2em auto;
     color: #232323;
     background:#fff9f6;
-    /*background: #fff4f2;*/
     border-left:solid 10px #cdb5b1;
-    width: 50%;
+    max-width: 50%;
     }
 .header__logo img{
     max-width: 100%;
