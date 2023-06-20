@@ -16,7 +16,7 @@
     color: #232323;
     background:#fff9f6;
     border-left:solid 10px #cdb5b1;
-    max-width: 50%;
+    width: 50%;
     }
 .header__logo img{
     max-width: 100%;
@@ -46,4 +46,4 @@
     max-width: fit-content;
     margin: auto;}
     
-body{background:linear-gradient(45deg,#ffded5,#fecbcd6a);}
+body{background:linear-gradient(45deg,#ffded5,#ffe1ff);}
